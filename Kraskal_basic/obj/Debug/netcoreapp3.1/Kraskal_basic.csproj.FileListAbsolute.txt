@@ -1,0 +1,11 @@
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\bin\Debug\netcoreapp3.1\Kraskal_basic.exe
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\bin\Debug\netcoreapp3.1\Kraskal_basic.deps.json
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\bin\Debug\netcoreapp3.1\Kraskal_basic.runtimeconfig.json
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\bin\Debug\netcoreapp3.1\Kraskal_basic.runtimeconfig.dev.json
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\bin\Debug\netcoreapp3.1\Kraskal_basic.dll
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\bin\Debug\netcoreapp3.1\Kraskal_basic.pdb
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\obj\Debug\netcoreapp3.1\Kraskal_basic.csprojAssemblyReference.cache
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\obj\Debug\netcoreapp3.1\Kraskal_basic.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\obj\Debug\netcoreapp3.1\Kraskal_basic.AssemblyInfo.cs
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\obj\Debug\netcoreapp3.1\Kraskal_basic.dll
+C:\Users\Slava\Desktop\8 semestr\ПиАА\Kraskal\Kraskal_basic\Kraskal_basic\obj\Debug\netcoreapp3.1\Kraskal_basic.pdb

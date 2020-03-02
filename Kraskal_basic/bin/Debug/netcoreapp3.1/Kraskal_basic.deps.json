@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kraskal_basic/1.0.0": {
+        "runtime": {
+          "Kraskal_basic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kraskal_basic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
